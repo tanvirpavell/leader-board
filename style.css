@@ -1,0 +1,27 @@
+body{
+    background-color: #E5E5E5;
+}
+.nav-bg{
+    background-color: #562EFF;
+   
+}
+
+.logo{
+    width: 40px;
+}
+.navbar-nav,.nav-link{
+    color: white;
+}
+.player-p{
+    width: 50px;
+}
+.line{
+    border: 1px solid #D1D1D1;
+    width: 807px;
+}
+.top-p{
+    color: #562EFF;
+}
+.blog-img{
+    width: 154px;
+}
