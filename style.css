@@ -22,7 +22,7 @@ body {
 
 .line {
     border: 1px solid #D1D1D1;
-    width: 807px;
+   max-width: 850px;
 }
 
 .top-p {
@@ -41,4 +41,34 @@ body {
 .by-g {
     color: lightgrey;
 }
+.card-img-top {
+    width: 224px;
+}
 
+.card-text {
+    color: #ED6B4F;
+}
+
+.card-footer img {
+    width:
+        20px;
+}
+.bg-f{
+    background-color: #FFE4E8;
+    color: #FF4A60;
+    border-radius: 14.6913px;
+    width: 94.83px;
+    height: 29.38px;
+}
+.card-footer{
+    background-color: #ffff;
+    border: none;
+}
+.card {
+    border: none;
+    border-radius: 20px;
+}
+.bg-light-2nd{
+    background-color: #ffff;
+    
+}
