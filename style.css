@@ -1,27 +1,44 @@
-body{
+body {
     background-color: #E5E5E5;
 }
-.nav-bg{
+
+.nav-bg {
     background-color: #562EFF;
-   
+
 }
 
-.logo{
+.logo {
     width: 40px;
 }
-.navbar-nav,.nav-link{
+
+.navbar-nav,
+.nav-link {
     color: white;
 }
-.player-p{
+
+.player-p {
     width: 50px;
 }
-.line{
+
+.line {
     border: 1px solid #D1D1D1;
     width: 807px;
 }
-.top-p{
+
+.top-p {
     color: #562EFF;
 }
-.blog-img{
+
+.blog-img {
     width: 154px;
 }
+
+.p-f {
+    font-size: 12px;
+    color: #562EFF;
+}
+
+.by-g {
+    color: lightgrey;
+}
+
